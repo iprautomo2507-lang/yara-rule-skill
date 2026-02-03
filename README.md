@@ -2,8 +2,6 @@
 
 An **LLM Agent Skill** for expert YARA rule authoring, review, and optimization. Embeds industry best practices from the creator of [YARA-Forge](https://github.com/YARAHQ/yara-forge) and [yaraQA](https://github.com/Neo23x0/yaraQA) into your AI assistant's context.
 
-> **Community Edition** — This is the open-source release. For advanced rule writing assistance, custom scoring models, and enterprise support, see [Nextron Systems](https://www.nextron-systems.com).
-
 ## 🎯 What This Skill Does
 
 The **yara-rule-skill** transforms your LLM agent into a YARA rule expert, capable of:
@@ -149,16 +147,6 @@ Visit [https://YARAHQ.github.io/yara-rule-skill-site/](https://YARAHQ.github.io/
 - Overview of the skill
 - Use case examples
 - Installation instructions
-
-## 💼 Professional Edition
-
-The Community Edition covers the essentials. Organizations requiring:
-- **Advanced rule writing workflows** (multi-file analysis, rule set optimization)
-- **Custom scoring models** (tune yaraQA for your environment)
-- **Integration support** (CI/CD, SOAR platforms)
-- **Training & consulting**
-
-Contact [Nextron Systems](https://www.nextron-systems.com) for enterprise options.
 
 ## 🤝 Contributing
 
