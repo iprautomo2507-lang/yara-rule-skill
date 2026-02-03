@@ -15,14 +15,27 @@ All through natural language conversation — just paste a rule and ask.
 
 ## 📦 Installation
 
-### Direct Download
+### Option 1: Clone and Copy (Recommended)
 
 ```bash
-# Download the skill
-curl -L -o yara-rule-skill.skill https://github.com/YARAHQ/yara-rule-skill/releases/latest/download/yara-rule-skill.skill
+# Clone the repository
+git clone https://github.com/YARAHQ/yara-rule-skill.git
 
-# Add to your agent's skills folder
-# (location varies by platform)
+# Copy to your agent's skills folder
+cp -r yara-rule-skill ~/.openclaw/skills/
+```
+
+### Option 2: Package as .skill File
+
+```bash
+# Clone the repository
+git clone https://github.com/YARAHQ/yara-rule-skill.git
+cd yara-rule-skill
+
+# Package the skill
+python3 scripts/package_skill.py .
+
+# Install the packaged skill
 cp yara-rule-skill.skill ~/.openclaw/skills/
 ```
 
@@ -33,20 +46,6 @@ This skill works with any LLM agent that supports skill files:
 - **OpenClaw** — `~/.openclaw/skills/`
 - **Claude Desktop** — (skills folder location varies)
 - **Other MCP-based agents** — Check your platform's documentation
-
-### Build from Source
-
-```bash
-# Clone the repository
-git clone https://github.com/YARAHQ/yara-rule-skill.git
-cd yara-rule-skill
-
-# Package the skill
-python3 scripts/package_skill.py .
-
-# Install
-cp yara-rule-skill.skill ~/.openclaw/skills/
-```
 
 ## 🚀 Usage
 
